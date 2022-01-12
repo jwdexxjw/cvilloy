@@ -1,19 +1,52 @@
-;æ˜¯æ³¨é‡Šè¯´æ˜ï¼Œè¯´æ˜è¡¥ä¸çš„ç±»å‹(ä¾‹å¦‚ï¼šæ˜¯æœˆåº¦æ±‡æ€»è¡¥ä¸è¿˜æ˜¯å®‰å…¨æ€§æ›´æ–°è¡¥ä¸)ï¼Œæ–‡æ¡£å…è®¸æœ‰ç©ºè¡Œ
+£»ÒÔ·ÖÌ–é_î^µÄĞĞÊÇêPì¶ßmÓÃì¶ºÎ·NÏµ½y¡¢ºÎ·NîĞÍµÄÑa¶¡µÄ×¢áŒÕhÃ÷¡£
+£»ÏÂÃæµÄÊÇ®”Ç°ÔÂ·İ»òÉÏ‚€ÔÂ·İµÄwindowsÑa¶¡ÏÂİdæœ½Ó¡£
+£»æœ½Ó¸üĞÂ•rég£ºÃ¿‚€ÔÂµÚ¶ş‚€ĞÇÆÚµÄĞÇÆÚÈı»òĞÇÆÚËÄ£¬¼´±ÈwindowsµÄ¸üĞÂ•régÍÆßtÒ»ƒÉÌì×óÓÒ¡£
 
-;2021-12 é€‚ç”¨äº Windows 8.1 åŸºäº x64 ç³»ç»Ÿçš„æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€»
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows8.1-kb5008263-x64_6d9eb2beed6c47dcc395371503d718fc061b3b80.msu
+£»ßmÓÃì¶£ºWindows10£¨LTSC£©1809°æ±¾--x64£¨64Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾ÀÛ·e¸üĞÂ¡¿--Cumulative Update
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows10.0-kb5010196-x64_18d275f02ab20abb80257f0b6a3314869a7922ca.msu
 
-;2021-12 é€‚ç”¨äº Windows 8.1 åŸºäº x86 ç³»ç»Ÿçš„æœˆåº¦å®‰å…¨è´¨é‡æ±‡æ€»
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows8.1-kb5008263-x86_9127c444f99c522aa23221c7a8a6607089f2bb8f.msu
 
-;2021-12 Windows 10 1809 åŸºäº x64 ç³»ç»Ÿçš„ç´¯è®¡æ›´æ–°
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows10.0-kb5008218-x64_66e07f2fc23728ca0b8f395df15da52546e45e45.msu
+£»ßmÓÃì¶£ºWindows10£¨LTSC£©1809°æ±¾--x86£¨32Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾ÀÛ·e¸üĞÂ¡¿--Cumulative Update
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows10.0-kb5010196-x86_272398a3a262c8ead57032d55102d5b29e32e14b.msu
 
-;2021-12 Windows 10 1809 åŸºäº x86 ç³»ç»Ÿçš„ç´¯è®¡æ›´æ–°
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows10.0-kb5008218-x86_899a286ab4a06c8d75f65199d784cc8e98486d79.msu
 
-;2021-12 é€‚ç”¨äº Windows 8.1 åŸºäº x64 ç³»ç»Ÿçš„ä»…å®‰å…¨æ›´æ–°
+£»ßmÓÃì¶£ºWindows10£¨LTSB£©1607°æ±¾--x64£¨64Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾ÀÛ·e¸üĞÂ¡¿--Cumulative Update
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows10.0-kb5010195-x64_ad0e98d89f31352ccc27ee773a1c3bcb9e95e447.msu
+
+
+£»ßmÓÃì¶£ºWindows10£¨LTSB£©1607°æ±¾--x86£¨32Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾ÀÛ·e¸üĞÂ¡¿--Cumulative Update
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/01/windows10.0-kb5010195-x86_b718f65b55ec5af53ec292f8f9f40035d6dcb58f.msu
+
+
+£»ßmÓÃì¶£ºWindows8.1--x64£¨64Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾ÔÂ¶ÈÙ|Á¿°²È«…R¿‚¡¿--Security Monthly Quality Rollup
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows8.1-kb5008285-x64_8898bb2f718fb8960e9bc1260364c87380cdff91.msu
 
-;2021-12 é€‚ç”¨äº Windows 8.1 åŸºäº x86 ç³»ç»Ÿçš„ä»…å®‰å…¨æ›´æ–°
+
+£»ßmÓÃì¶£ºWindows8.1--x32£¨32Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾ÔÂ¶ÈÙ|Á¿°²È«…R¿‚¡¿--Security Monthly Quality Rollup
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows8.1-kb5008263-x86_9127c444f99c522aa23221c7a8a6607089f2bb8f.msu
+
+
+£»ßmÓÃì¶£ºWindows8.1--x64£¨64Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾ƒH°²È«Ù|Á¿¸üĞÂ¡¿--Security Only Quality Update
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows8.1-kb5008285-x64_8898bb2f718fb8960e9bc1260364c87380cdff91.msu
+
+
+£»ßmÓÃì¶£ºWindows8.1--x32£¨32Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾ƒH°²È«Ù|Á¿¸üĞÂ¡¿--Security Only Quality Update
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows8.1-kb5008285-x86_0d7335eab9a2248a2d0bfdaf750823197ea8b923.msu
+
+
+£»ßmÓÃì¶£ºWindows8.1--x64£¨64Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾ªšÁ¢¸üĞÂ¡¿--Update
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows8.1-kb5010215-x64_0ec1ce1de5ece93cee398a2366c6a64896279030.msu
+
+
+£»ßmÓÃì¶£ºWindows8.1--x32£¨32Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾ªšÁ¢¸üĞÂ¡¿--Update
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2022/01/windows8.1-kb5010215-x86_305b06817887c747ec3f33273d43e54ca68b714c.msu
+
+
+£»ßmÓÃì¶£ºWindows8.1--x64£¨64Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾.NETÏµ½y½M¼ş¡¿--windowsdesktop-runtime-x64
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2021/11/windowsdesktop-runtime-5.0.12-win-x64_1c714884ee32928d3cb1366c3b556a7f2cf1abfb.exe
+
+
+£»ßmÓÃì¶£ºWindows8.1--x32£¨32Î»£©Ïµ½y£»Ña¶¡îĞÍ£º¡¾.NETÏµ½y½M¼ş¡¿--windowsdesktop-runtime-x86
+http://download.windowsupdate.com/c/msdownload/update/software/crup/2021/11/windowsdesktop-runtime-5.0.12-win-x86_c4851a2921b5b7c472ab300f078fd9a97cb08b76.exe
+
+
